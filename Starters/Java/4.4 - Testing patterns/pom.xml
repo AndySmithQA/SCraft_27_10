@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>CalculatorProject</name>
+	<name>CalculatorProject - 4.4</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
