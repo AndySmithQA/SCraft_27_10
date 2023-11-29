@@ -1,1 +1,0 @@
-There is no starter project necessary for this lab.
